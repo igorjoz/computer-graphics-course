@@ -1,0 +1,12 @@
+Tasks:
+- narysowanie rakiety - 3 punkty
+	- wypełnione 2 różnymi kolorami
+- obracanie rakiety klawiaturą
+- przemieszczanie klawiaturą
+
+Elementy rakiety:
+- body
+- window
+- booster
+- heatShield
+- leftWing, rightWing
