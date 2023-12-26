@@ -1,0 +1,15 @@
+3 punkty:
+    - narysowanie litery A
+    - XFillPolygon - łączenie punktów
+        - przedostatni argument: typ wielokąta: convex, non convex, complex
+    - XSetForeground - wybór koloru
+
+4 punkty:
+    - XFillArc
+    - argumenty
+        - prostokąt - lewy górny róg
+        - szerokość, wysokość
+        - dwa kąty - wycinek elipsy - liczba całkowita; stopnie * 64
+
+5 punktów:
+    - przechylanie litery myszką
